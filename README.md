@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0066-plus-one](https://github.com/ShristiSinghAstha/LeetCodeProblems/tree/master/0066-plus-one) |
 | [0162-find-peak-element](https://github.com/ShristiSinghAstha/LeetCodeProblems/tree/master/0162-find-peak-element) |
 | [1732-find-the-highest-altitude](https://github.com/ShristiSinghAstha/LeetCodeProblems/tree/master/1732-find-the-highest-altitude) |
 ## Binary Search
@@ -14,4 +15,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1732-find-the-highest-altitude](https://github.com/ShristiSinghAstha/LeetCodeProblems/tree/master/1732-find-the-highest-altitude) |
+## Math
+|  |
+| ------- |
+| [0066-plus-one](https://github.com/ShristiSinghAstha/LeetCodeProblems/tree/master/0066-plus-one) |
 <!---LeetCode Topics End-->
