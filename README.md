@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/ShristiSinghAstha/LeetCodeProblems/tree/master/0001-two-sum) |
 | [0066-plus-one](https://github.com/ShristiSinghAstha/LeetCodeProblems/tree/master/0066-plus-one) |
 | [0162-find-peak-element](https://github.com/ShristiSinghAstha/LeetCodeProblems/tree/master/0162-find-peak-element) |
 | [1732-find-the-highest-altitude](https://github.com/ShristiSinghAstha/LeetCodeProblems/tree/master/1732-find-the-highest-altitude) |
@@ -20,4 +21,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/ShristiSinghAstha/LeetCodeProblems/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/ShristiSinghAstha/LeetCodeProblems/tree/master/0066-plus-one) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/ShristiSinghAstha/LeetCodeProblems/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
