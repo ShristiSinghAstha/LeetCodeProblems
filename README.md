@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/ShristiSinghAstha/LeetCodeProblems/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/ShristiSinghAstha/LeetCodeProblems/tree/master/0066-plus-one) |
+| [0070-climbing-stairs](https://github.com/ShristiSinghAstha/LeetCodeProblems/tree/master/0070-climbing-stairs) |
 ## Hash Table
 |  |
 | ------- |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/ShristiSinghAstha/LeetCodeProblems/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/ShristiSinghAstha/LeetCodeProblems/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ShristiSinghAstha/LeetCodeProblems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Tree
@@ -76,4 +78,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/ShristiSinghAstha/LeetCodeProblems/tree/master/0056-merge-intervals) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/ShristiSinghAstha/LeetCodeProblems/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
