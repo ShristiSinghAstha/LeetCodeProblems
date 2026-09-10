@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/ShristiSinghAstha/LeetCodeProblems/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/ShristiSinghAstha/LeetCodeProblems/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/ShristiSinghAstha/LeetCodeProblems/tree/master/0070-climbing-stairs) |
+| [0089-gray-code](https://github.com/ShristiSinghAstha/LeetCodeProblems/tree/master/0089-gray-code) |
 ## Hash Table
 |  |
 | ------- |
@@ -65,11 +66,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0078-subsets](https://github.com/ShristiSinghAstha/LeetCodeProblems/tree/master/0078-subsets) |
+| [0089-gray-code](https://github.com/ShristiSinghAstha/LeetCodeProblems/tree/master/0089-gray-code) |
 | [0136-single-number](https://github.com/ShristiSinghAstha/LeetCodeProblems/tree/master/0136-single-number) |
 ## Backtracking
 |  |
 | ------- |
 | [0078-subsets](https://github.com/ShristiSinghAstha/LeetCodeProblems/tree/master/0078-subsets) |
+| [0089-gray-code](https://github.com/ShristiSinghAstha/LeetCodeProblems/tree/master/0089-gray-code) |
 ## Sorting
 |  |
 | ------- |
