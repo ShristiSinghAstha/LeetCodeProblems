@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/ShristiSinghAstha/LeetCodeProblems/tree/master/0001-two-sum) |
+| [0016-3sum-closest](https://github.com/ShristiSinghAstha/LeetCodeProblems/tree/master/0016-3sum-closest) |
 | [0033-search-in-rotated-sorted-array](https://github.com/ShristiSinghAstha/LeetCodeProblems/tree/master/0033-search-in-rotated-sorted-array) |
 | [0056-merge-intervals](https://github.com/ShristiSinghAstha/LeetCodeProblems/tree/master/0056-merge-intervals) |
 | [0066-plus-one](https://github.com/ShristiSinghAstha/LeetCodeProblems/tree/master/0066-plus-one) |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/ShristiSinghAstha/LeetCodeProblems/tree/master/0016-3sum-closest) |
 | [0056-merge-intervals](https://github.com/ShristiSinghAstha/LeetCodeProblems/tree/master/0056-merge-intervals) |
 ## Quicksort
 |  |
@@ -93,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/ShristiSinghAstha/LeetCodeProblems/tree/master/0016-3sum-closest) |
 | [0141-linked-list-cycle](https://github.com/ShristiSinghAstha/LeetCodeProblems/tree/master/0141-linked-list-cycle) |
 ## Floyd's Cycle Finding Algorithm
 |  |
