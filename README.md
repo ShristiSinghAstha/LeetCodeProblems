@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/ShristiSinghAstha/LeetCodeProblems/tree/master/0066-plus-one) |
 | [0118-pascals-triangle](https://github.com/ShristiSinghAstha/LeetCodeProblems/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ShristiSinghAstha/LeetCodeProblems/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0128-longest-consecutive-sequence](https://github.com/ShristiSinghAstha/LeetCodeProblems/tree/master/0128-longest-consecutive-sequence) |
 | [0162-find-peak-element](https://github.com/ShristiSinghAstha/LeetCodeProblems/tree/master/0162-find-peak-element) |
 | [1732-find-the-highest-altitude](https://github.com/ShristiSinghAstha/LeetCodeProblems/tree/master/1732-find-the-highest-altitude) |
 ## Binary Search
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/ShristiSinghAstha/LeetCodeProblems/tree/master/0001-two-sum) |
+| [0128-longest-consecutive-sequence](https://github.com/ShristiSinghAstha/LeetCodeProblems/tree/master/0128-longest-consecutive-sequence) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -50,4 +52,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0111-minimum-depth-of-binary-tree](https://github.com/ShristiSinghAstha/LeetCodeProblems/tree/master/0111-minimum-depth-of-binary-tree) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/ShristiSinghAstha/LeetCodeProblems/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
