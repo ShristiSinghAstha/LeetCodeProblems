@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/ShristiSinghAstha/LeetCodeProblems/tree/master/0001-two-sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/ShristiSinghAstha/LeetCodeProblems/tree/master/0033-search-in-rotated-sorted-array) |
 | [0066-plus-one](https://github.com/ShristiSinghAstha/LeetCodeProblems/tree/master/0066-plus-one) |
+| [0118-pascals-triangle](https://github.com/ShristiSinghAstha/LeetCodeProblems/tree/master/0118-pascals-triangle) |
 | [0162-find-peak-element](https://github.com/ShristiSinghAstha/LeetCodeProblems/tree/master/0162-find-peak-element) |
 | [1732-find-the-highest-altitude](https://github.com/ShristiSinghAstha/LeetCodeProblems/tree/master/1732-find-the-highest-altitude) |
 ## Binary Search
@@ -27,4 +28,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/ShristiSinghAstha/LeetCodeProblems/tree/master/0001-two-sum) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0118-pascals-triangle](https://github.com/ShristiSinghAstha/LeetCodeProblems/tree/master/0118-pascals-triangle) |
 <!---LeetCode Topics End-->
