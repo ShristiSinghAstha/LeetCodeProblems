@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/ShristiSinghAstha/LeetCodeProblems/tree/master/0001-two-sum) |
 | [0128-longest-consecutive-sequence](https://github.com/ShristiSinghAstha/LeetCodeProblems/tree/master/0128-longest-consecutive-sequence) |
+| [0141-linked-list-cycle](https://github.com/ShristiSinghAstha/LeetCodeProblems/tree/master/0141-linked-list-cycle) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -85,4 +86,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/ShristiSinghAstha/LeetCodeProblems/tree/master/0070-climbing-stairs) |
+## Linked List
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/ShristiSinghAstha/LeetCodeProblems/tree/master/0141-linked-list-cycle) |
+## Two Pointers
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/ShristiSinghAstha/LeetCodeProblems/tree/master/0141-linked-list-cycle) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/ShristiSinghAstha/LeetCodeProblems/tree/master/0141-linked-list-cycle) |
 <!---LeetCode Topics End-->
