@@ -98,9 +98,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0016-3sum-closest](https://github.com/ShristiSinghAstha/LeetCodeProblems/tree/master/0016-3sum-closest) |
+| [0125-valid-palindrome](https://github.com/ShristiSinghAstha/LeetCodeProblems/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/ShristiSinghAstha/LeetCodeProblems/tree/master/0141-linked-list-cycle) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/ShristiSinghAstha/LeetCodeProblems/tree/master/0141-linked-list-cycle) |
+## String
+|  |
+| ------- |
+| [0125-valid-palindrome](https://github.com/ShristiSinghAstha/LeetCodeProblems/tree/master/0125-valid-palindrome) |
 <!---LeetCode Topics End-->
