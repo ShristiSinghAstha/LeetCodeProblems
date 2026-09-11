@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/ShristiSinghAstha/LeetCodeProblems/tree/master/0001-two-sum) |
 | [0016-3sum-closest](https://github.com/ShristiSinghAstha/LeetCodeProblems/tree/master/0016-3sum-closest) |
 | [0033-search-in-rotated-sorted-array](https://github.com/ShristiSinghAstha/LeetCodeProblems/tree/master/0033-search-in-rotated-sorted-array) |
+| [0039-combination-sum](https://github.com/ShristiSinghAstha/LeetCodeProblems/tree/master/0039-combination-sum) |
 | [0056-merge-intervals](https://github.com/ShristiSinghAstha/LeetCodeProblems/tree/master/0056-merge-intervals) |
 | [0066-plus-one](https://github.com/ShristiSinghAstha/LeetCodeProblems/tree/master/0066-plus-one) |
 | [0078-subsets](https://github.com/ShristiSinghAstha/LeetCodeProblems/tree/master/0078-subsets) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0039-combination-sum](https://github.com/ShristiSinghAstha/LeetCodeProblems/tree/master/0039-combination-sum) |
 | [0078-subsets](https://github.com/ShristiSinghAstha/LeetCodeProblems/tree/master/0078-subsets) |
 | [0089-gray-code](https://github.com/ShristiSinghAstha/LeetCodeProblems/tree/master/0089-gray-code) |
 ## Sorting
