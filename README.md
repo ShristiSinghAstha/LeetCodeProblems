@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/ShristiSinghAstha/LeetCodeProblems/tree/master/0033-search-in-rotated-sorted-array) |
+| [0069-sqrtx](https://github.com/ShristiSinghAstha/LeetCodeProblems/tree/master/0069-sqrtx) |
 | [0162-find-peak-element](https://github.com/ShristiSinghAstha/LeetCodeProblems/tree/master/0162-find-peak-element) |
 ## Prefix Sum
 |  |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/ShristiSinghAstha/LeetCodeProblems/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/ShristiSinghAstha/LeetCodeProblems/tree/master/0066-plus-one) |
+| [0069-sqrtx](https://github.com/ShristiSinghAstha/LeetCodeProblems/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/ShristiSinghAstha/LeetCodeProblems/tree/master/0070-climbing-stairs) |
 | [0089-gray-code](https://github.com/ShristiSinghAstha/LeetCodeProblems/tree/master/0089-gray-code) |
 ## Hash Table
@@ -108,4 +110,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/ShristiSinghAstha/LeetCodeProblems/tree/master/0125-valid-palindrome) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/ShristiSinghAstha/LeetCodeProblems/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
